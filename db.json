@@ -1,0 +1,16 @@
+{
+  "employee": [
+    {
+      "name": "Sthabile Zulu",
+      "job": "Data Analyst",
+      "id": 5,
+      "profilePicture": "components/profilePictures/download.jfif"
+    },
+    {
+      "name": "Noxolo ",
+      "job": "Developer",
+      "profilePicture": {},
+      "id": 6
+    }
+  ]
+}
